@@ -1,1 +1,3 @@
 # snowboardmania
+
+about my project
